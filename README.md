@@ -1,3 +1,19 @@
+---
+title: Sunbird AI Pipeline
+emoji: 🐦
+colorFrom: green
+colorTo: yellow
+sdk: gradio
+sdk_version: 6.14.0
+app_file: app.py
+pinned: false
+---
+
+# Sunbird AI Pipeline
+
+A Gradio web application that accepts text or audio...
+(rest of your existing README stays the same)
+
 # Sunbird AI Pipeline
 
 A Gradio web application that accepts text or audio, then runs it through a four-step AI pipeline — entirely powered by [Sunbird AI](https://sunbird.ai/) — to produce a translated, spoken summary in a Ugandan local language.
@@ -135,6 +151,7 @@ SUNBIRD_API_TOKEN=your_token_here
 
 ## Deployed link
 
+**[https://huggingface.co/spaces/ltgwgeorge/sunbird-ai-pipeline](https://huggingface.co/spaces/ltgwgeorge/sunbird-ai-pipeline)**
 
 The app is hosted on Hugging Face Spaces (Gradio SDK). The `SUNBIRD_API_TOKEN` is stored as a Space secret and is never exposed in the repository.
 
