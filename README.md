@@ -151,7 +151,7 @@ SUNBIRD_API_TOKEN=your_token_here
 
 ## Deployed link
 
-**[https://huggingface.co/spaces/ltgwgeorge/sunbird-ai-pipeline](https://huggingface.co/spaces/ltgwgeorge/sunbird-ai-pipeline)**
+**[https://huggingface.co/spaces/musheijaa/sunbird-ai-pipeline](https://huggingface.co/spaces/musheijaa/sunbird-ai-pipeline)**
 
 The app is hosted on Hugging Face Spaces (Gradio SDK). The `SUNBIRD_API_TOKEN` is stored as a Space secret and is never exposed in the repository.
 
